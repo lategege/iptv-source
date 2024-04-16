@@ -4,8 +4,8 @@
 iptv6播放源(推荐使用)
 https://raw.githubusercontent.com/lategege/iptv-source/main/iptv6.m3u
 
-ipv6-4K播放源(推荐使用)
-https://raw.githubusercontent.com/lategege/iptv-source/main/iptv6-4k.m3u
+~~ipv6-4K播放源(推荐使用)已失效~~ 
+~~https://raw.githubusercontent.com/lategege/iptv-source/main/iptv6-4k.m3u~~
 
 ipv4播放源(不推荐)
 https://raw.githubusercontent.com/lategege/iptv-source/main/iptv4.m3u
